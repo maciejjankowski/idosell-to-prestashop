@@ -1,5 +1,10 @@
 # idosell-to-prestashop
 
+## Migracje danych
+
+- [Ogólny opis procesu migracji i narzędzia](generic_importer.md)
+- [Jak przygotować i przenieść dane do PrestaShop za pomocą Pythona](how_to_migrate.md)
+
 ## Uruchomienie
 
 0. Zrób backup bazy danych (!) :]
