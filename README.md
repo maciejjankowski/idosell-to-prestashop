@@ -6,7 +6,7 @@
 
 - [Ogólny opis procesu migracji i narzędzia](generic_importer.md)
 - [Jak przygotować i przenieść dane do PrestaShop za pomocą Pythona](how_to_migrate.md)
-- [Mini kurs Migracja Danych](minikurs.md)
+- [Mini kurs Migracja Danych](https://maciejjankowski.gumroad.com/l/prestashop-data-migration-python)
 
 ## Uruchomienie
 
